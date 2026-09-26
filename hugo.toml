@@ -1,0 +1,18 @@
+baseURL = 'https://ediblestone.co.uk/'
+languageCode = 'en-gb'
+title = 'EdibleStone'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto' # 'light' or 'dark'
+  showReadingTime = true
+  showShareButtons = true
+  showPostNavLinks = true
+  
+  [params.homeInfoParams]
+    title = "EdibleStone"
+    content = "Welcome to EdibleStone. Explore our latest videos, guides, and articles."
+
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://www.youtube.com/@EdibleStone"

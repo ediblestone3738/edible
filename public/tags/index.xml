@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on EdibleStone</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on EdibleStone</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Budapest</title>
+      <link>http://localhost:1313/tags/budapest/</link>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/budapest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hungary</title>
+      <link>http://localhost:1313/tags/hungary/</link>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hungary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Public Transport</title>
+      <link>http://localhost:1313/tags/public-transport/</link>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/public-transport/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel Guide</title>
+      <link>http://localhost:1313/tags/travel-guide/</link>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/travel-guide/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
